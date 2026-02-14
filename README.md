@@ -2,7 +2,7 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Mindverse] 🎯
+# Mindverse 🎯
 
 ## Basic Details
 
@@ -100,19 +100,23 @@ npm start
 
 ---
 
-## Additional Documentation
+## Team Contributions
 
-### For Web Projects with Backend:
+Solo
 
-#### API Documentation
+Full frontend development
+AI integration
+Gamification logic
+UI/UX design
+Deployment
 
-
-
-
-```
 ## AI Tools Used (chatgpt,claude ai)
+Purpose:
+AI-generated supportive responses
+Personalized task messaging
+Code structuring assistance
 
-**Percentage of AI-generated code:** [Approximately X%]
+**Percentage of AI-generated code:** 25%
 ---
 
 Made with ❤️ at TinkerHub
