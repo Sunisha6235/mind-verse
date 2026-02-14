@@ -12,7 +12,7 @@
 - Member 1: Sunisha S - NSS college of engineering Palakkd
 
 ### Hosted Project Link
-[mention your project hosted link here]
+https://drive.google.com/drive/folders/1DDprlg2jUMPi3-lID4qzLhg8-hKFb8WL?usp=sharing
 
 ### Project Description
 MindVerse is an AI powered mental wellness web application that helps users track their mood, reduce stress through guided breathing, reframe negative thoughts using AI, and complete personalized self care tasks. It uses real time stress detection and gamification to make self-care engaging and interactive.
@@ -87,13 +87,11 @@ npm start
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
-*Explain your system architecture - components, data flow, tech stack interaction*
+<img src="architecture.png" alt="Project Output" width="600"/>
 
 **Application Workflow:**
 
-![Workflow](docs/workflow.png)
-*Add caption explaining your workflow*
+<img src="workflow.png" alt="Project Output" width="600"/>
 
 ---
 
@@ -117,4 +115,5 @@ Code structuring assistance
 ---
 
 Made with ❤️ at TinkerHub
+
 
