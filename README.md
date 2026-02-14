@@ -75,15 +75,14 @@ npm start
 
 ### For Software:
 
-#### Screenshots (Add at least 3)
-
-(2nd page.png)
-(clam.png)
-(features.png)
-(login page.png)
-(simple task.png)
-(stressed emotion.png)
-(ui.png)
+#### Screenshots (Add at leas
+<img src="2nd page.png" alt="Project Output" width="600"/>
+<img src="clam.png" alt="Project Output" width="600"/>
+<img src="features.png" alt="Project Output" width="600"/>
+<img src="login.png" alt="Project Output" width="600"/>
+<img src="simple task.png" alt="Project Output" width="600"/>
+<img src="stressed emotion.png" alt="Project Output" width="600"/>
+<img src="ui.png" alt="Project Output" width="600"/>
 #### Diagrams
 
 **System Architecture:**
@@ -118,3 +117,4 @@ Code structuring assistance
 ---
 
 Made with ❤️ at TinkerHub
+
