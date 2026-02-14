@@ -77,15 +77,13 @@ npm start
 
 #### Screenshots (Add at least 3)
 
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+(2nd page.png)
+(clam.png)
+(features.png)
+(login page.png)
+(simple task.png)
+(stressed emotion.png)
+(ui.png)
 #### Diagrams
 
 **System Architecture:**
